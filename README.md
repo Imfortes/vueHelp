@@ -1,25 +1,17 @@
 # app
 
-## Project setup
-```
-npm install
-```
+## Компоненты
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Директивы
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Фильтры и миксины
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Формы
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# vueHelp
+## Валидация vuelidate
+
+## Routing vue-router
+
+## Сервер vue-resource
+
+## Vuex getters mutations actions
